@@ -1,0 +1,21 @@
+* {
+  background-image: url(../img/books_library_photoshop_127118_1280x720.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#canvas {
+  border-radius: 80px;
+  margin: 0px 455px;
+  background-image: url(../img/house_fairy_tale_art_light_night_101615_1280x720.jpg);
+}
+
+
+
+#times{
+  font-size: 50px;
+  margin: 60px 557px;
+  background:black;
+  color: green;
+  
+}
